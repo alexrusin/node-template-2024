@@ -24,6 +24,9 @@ export default [
   {
     rules: {
       "@typescript-eslint/no-unused-vars": "off",
+      "prettier/prettier": {
+        endOfLine: "auto",
+      },
     },
   },
   eslintPluginPrettierRecommended,
