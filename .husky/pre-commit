@@ -1,2 +1,2 @@
-npx lint-staged --allow-empty
+npx lint-staged
 npm test
