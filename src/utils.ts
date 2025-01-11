@@ -7,7 +7,3 @@ export function add(a: number, b: number) {
 
   return a + b;
 }
-
-export function helloWorld() {
-  console.log("hello world");
-}
